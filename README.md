@@ -3,4 +3,4 @@ just another repository
 
 HELLO PEOPLE ..!!!
 
-This is Abhishek Nath. An aspiring engineer with a aim to built a startup with aim to help common people. 
+This is Abhishek Nath. An aspiring engineer with an aim to built a startup which would help common people. 
